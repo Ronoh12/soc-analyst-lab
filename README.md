@@ -1,7 +1,7 @@
 # SOC Analyst Lab – Brute Force Attack Investigation
 
 ## 📌 Objective
-This project simulates a SOC Analyst Level 1 investigation of a suspected brute-force attack using Linux authentication logs. The goal is to detect suspicious activity, analyze logs, identify indicators of compromise (IOCs), and recommend mitigation actions.
+This project simulates a SOC Analyst Level 1 investigation of a suspected brute-force attack using Linux authentication logs. The goal is to detect suspicious activity, analyze logs, identify indicators of compromise (IOCs) and recommend mitigation actions.
 
 ---
 
@@ -51,13 +51,13 @@ The activity is consistent with a brute-force attack targeting SSH authenticatio
 ---
 
 ## 📊 Outcome
-Successfully detected and analyzed a brute-force attack scenario, demonstrating SOC L1 skills in log analysis, alert triage, and incident documentation.
+Successfully detected and analyzed a brute-force attack scenario, demonstrating SOC L1 skills in log analysis, alert triage and incident documentation.
 
 ---
 
 ## 📁 Project Structure
-logs/
-analysis/
+logs/ 
+analysis/ 
 screenshots/
 
 ---
