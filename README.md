@@ -60,6 +60,16 @@ logs/
 analysis/ 
 screenshots/
 
+## 📸 Screenshots
+
+### Log Data
+![Log View](screenshots/log-view.png)
+
+### Failed Login Attempts
+![Failed Logins](screenshots/failed-logins.png)
+
+### IP Analysis
+![IP Analysis](screenshots/ip-analysis.png)
 ---
 
 ## 🔗 Author
